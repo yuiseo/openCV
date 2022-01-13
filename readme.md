@@ -1,6 +1,5 @@
 # OpenCV: Open Source Computer Vision Library
 ## Resources
-
 *   homepage: https://opencv.org
     *   Courses: https://opencv.org/courses
 *   Docs: https://docs.opencv.org/4.x/
@@ -17,4 +16,4 @@ Please read the [contribution guidelines](https://opencv.org) before starting wo
 *   Choose the right base branch;
 *   Include tests and documentation;
 *   Clean up "oops" commits before submitting;
-*   Follow the [coding style guilde](https://opencv.org)
+*   Follow the [coding style guilde](https://opencv.org).
